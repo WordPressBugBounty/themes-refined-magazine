@@ -116,7 +116,10 @@ License: Creative Commons CC0 license.
 Source: Self Created - GPL License
 
 == Changelog ==
-= 1.2.2 - September 11 2023 =
+= 1.2.4 - February 4 2025 =
+* Tested with WP 6.7
+
+= 1.2.3 - September 11 2023 =
 * Tested with WP 6.3
 * Added Font Awesome version 5 and 6
 * Added social icons

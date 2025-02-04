@@ -90,7 +90,7 @@ if ( !function_exists('refined_magazine_default_theme_options_values') ) :
             'refined-magazine-enable-static-page-sharing' => false,
 
             /*Footer Section*/
-            'refined-magazine-footer-copyright' =>  esc_html__('All Rights Reserved 2023.','refined-magazine'),
+            'refined-magazine-footer-copyright' =>  esc_html__('All Rights Reserved 2025.','refined-magazine'),
             'refined-magazine-go-to-top'=> true,
             
             
